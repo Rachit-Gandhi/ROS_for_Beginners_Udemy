@@ -6,11 +6,17 @@ I will try to share the machine with setup too so you can use same, directly fro
 
 <p>
 <ul>
-<li>ROS Noetic Installation is simple and can be done quick by following the [link](http://wiki.ros.org/noetic/Installation/Ubuntu)</li>
+<li>
+ROS Noetic Installation is simple and can be done quick by following the [link](http://wiki.ros.org/noetic/Installation/Ubuntu)
+</li>
 
-<li>After that you may want to proceed to make a ROS Workspace which is illustrated in this [link](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)</li>
+<li>
+After that you may want to proceed to make a ROS Workspace which is illustrated in this [link](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+</li>
 
-<li>We are following Anis Koubaa's course so [his github](https://github.com/aniskoubaa?tab=repositories) is listed here and suggested by him we can clone the [GITHUB repo for this course](https://github.com/aniskoubaa/ros_essentials_cpp) from there.</li>
+<li>
+We are following Anis Koubaa's course so [his github](https://github.com/aniskoubaa?tab=repositories) is listed here and suggested by him we can clone the [GITHUB repo for this course](https://github.com/aniskoubaa/ros_essentials_cpp) from there.
+</li>
 ````
 cd catkin_ws/src/
 git clone -b ros-noetic https://github.com/aniskoubaa/ros_essentials_cpp.git
