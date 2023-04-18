@@ -21,15 +21,17 @@ catkin_make
 <li>Check the installation and ROS setup</li>
 
 ````
-#first terminal
 roscore
-#second terminal
+````
+````
 rosrun ros_essentials_cpp talker_node
-#third terminal
+````
+````
 rosrun ros_essentials_cpp listener_node
-#fourth terminal
+````
 rosrun ros_essentials_cpp talker.py
-#fifth terminal
+````
+````
 rosrun ros_essentials_cpp listener.py
 ````
 
