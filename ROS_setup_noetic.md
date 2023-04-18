@@ -42,7 +42,7 @@ rosrun ros_essentials_cpp talker.py
 rosrun ros_essentials_cpp listener.py
 ````
 
-If issue with Python Node Ros Run command please do the one below:
+If issue with Python Nodes rosrun command please do the one below:
 
 ````
 sudo apt install python-is-python3
