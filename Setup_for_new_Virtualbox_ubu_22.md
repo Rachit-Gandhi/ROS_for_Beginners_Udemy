@@ -4,8 +4,10 @@
 <p>
 <ul>
 <li>Please disable the Secureboot one, you can work around by installing more drivers but better to avoid problem for now</li>
-<li>''''
+<li>
+````
 sudo apt update && sudo apt upgrade 
-'''</li>
+````
+</li>
 </ul>
 </p>
