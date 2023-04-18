@@ -11,6 +11,12 @@ I will try to share the machine with setup too so you can use same, directly fro
 <li>After that you may want to proceed to make a ROS Workspace which is illustrated in this [link](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)</li>
 
 <li>We are following Anis Koubaa's course so [his github](https://github.com/aniskoubaa?tab=repositories) is listed here and suggested by him we can clone the [GITHUB repo for this course](https://github.com/aniskoubaa/ros_essentials_cpp) from there.</li>
+
+<li>If issue with Python Node Ros Run command please do the one below:</li>
+
+````
+sudo apt install python-is-python3
+````
 </ul>
 </p>
 
