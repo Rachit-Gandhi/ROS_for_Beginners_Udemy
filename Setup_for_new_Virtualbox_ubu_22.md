@@ -1,5 +1,5 @@
 <h1>VirtualBox 7.0 setup on Ubuntu 22.04</h1>
-<p>I have never encoutered so many errors while trying to run virtualbox, until today, so to make it painless, I will add a method here which should work. Also Purge anya nd all previous instances of virtualbox prior to this install.</p>
+<p>I have never encoutered so many errors while trying to run virtualbox, until today, so to make it painless, I will add a method here which should work. Also Purge any and all previous instances of virtualbox prior to this install.</p>
 
 <p>
 <ul>
