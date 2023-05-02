@@ -1,6 +1,6 @@
 Hey!
 
-This is mmy attempt of Udemy Course titled : "ROS for Beginners: Basics, Motion, and OpenCV by Anis Koubaa"
+This is my attempt of Udemy Course titled : "ROS for Beginners: Basics, Motion, and OpenCV by Anis Koubaa"
 
 All my notes and code and my certification will be shared here.
 
